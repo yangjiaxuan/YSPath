@@ -1,16 +1,16 @@
 PODS:
-  - YSPath (0.1.0)
+  - YSPath (1.0.0)
 
 DEPENDENCIES:
-  - YSPath (from `../`)
+  - YSPath
 
-EXTERNAL SOURCES:
-  YSPath:
-    :path: "../"
+SPEC REPOS:
+  https://github.com/yangjiaxuan/YSSpec.git:
+    - YSPath
 
 SPEC CHECKSUMS:
-  YSPath: bbca2d48a988554e7d52db63b35fe5d8c975a331
+  YSPath: ad5b06a35555454f45296ec272a3b13831f07a5f
 
-PODFILE CHECKSUM: 6f5a98e42fabd140c11439de28e5bd973003eab5
+PODFILE CHECKSUM: 7141a1121a95eb1df510bdcd971891f9e176c3e8
 
 COCOAPODS: 1.9.1

@@ -6,7 +6,9 @@ target 'YSPathView' do
   use_frameworks!
 
   # Pods for YSPathView
-  pod 'YSPath', :path => "../"
+  pod 'YSPath'
+#  pod 'YSPath', :path => "../"
+#  pod 'YSPath', :source => "https://github.com/yangjiaxuan/YSSpec.git"
   
   target 'YSPathViewTests' do
     inherit! :search_paths

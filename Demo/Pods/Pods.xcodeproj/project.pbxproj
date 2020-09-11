@@ -8,23 +8,23 @@
 
 /* Begin PBXBuildFile section */
 		014B4D364D6CF0D89349DB2FE8ECE40D /* Pods-YSPathViewTests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = E61787500E3FF9BDAF5EEE93C31E5A04 /* Pods-YSPathViewTests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		0CF843F1D9F4D1EFF869E5ED79F1D23D /* YSPath.h in Headers */ = {isa = PBXBuildFile; fileRef = 0B940DD6BB529BAB940CE65218B61C58 /* YSPath.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		042CCBD4656B0E3C14266D6464EF97FF /* YSPath-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = DF89B15C72B27F578528CEE587FD81DF /* YSPath-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		0ECE97A111DF50E0781954037D533840 /* YSPath.h in Headers */ = {isa = PBXBuildFile; fileRef = 20D3981B3D22D6C81C8CCB9FC2122DD0 /* YSPath.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		10CFB2BFC0AE9D5B873AB6280D2F1002 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		18BF95A8CD79E270FD7486CEFADCADA0 /* UIView+YSPath.h in Headers */ = {isa = PBXBuildFile; fileRef = 146E886CE1D726B7C1C812750F4C5E7E /* UIView+YSPath.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3A1A22389EA58116756CF6AE1C8EE8D7 /* YSPath-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 432C03C11A7B560B2706A8D9AF441A40 /* YSPath-dummy.m */; };
 		4408F2B04575AB5066E9FEC5AF7F9F67 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		4661F5E4E0BE84DDA89784932FF2D35D /* UIBezierPath+YSPath.h in Headers */ = {isa = PBXBuildFile; fileRef = 5560CD7F143F9617E4CD75C30D2DA44F /* UIBezierPath+YSPath.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4ACC60D2616F92713B8BFE27027648B5 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		58D3FC9C5C0BE8F3118614BB93BC2DFB /* UIBezierPath+YSPath.m in Sources */ = {isa = PBXBuildFile; fileRef = D0CE26FF9276D78BBD7765297BF6726D /* UIBezierPath+YSPath.m */; };
-		6424302D8A2FA228E4F8CADBE79DDA9E /* YSPath-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = D39A9AF6C2F9D33C0AAA4A0B7B5525C5 /* YSPath-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		6EAC527A81D2D1407D81689B7A103C96 /* YSSpiroGraphPath.h in Headers */ = {isa = PBXBuildFile; fileRef = 203EF966941843E6E4B9367103A0AFA8 /* YSSpiroGraphPath.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		703B2225DC8D6F31087EF3856B11DCDE /* Pods-YSPathView-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 655137C1D45C5F2E722B57C47D4570CE /* Pods-YSPathView-dummy.m */; };
-		75F3E00C5D15A9561B9E53AB6A5F03AD /* UIView+YSPath.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F15F30883D25B73CF5E1428C4ABFE35 /* UIView+YSPath.m */; };
+		7ECE8A4F8B9BC4C6CD1ECD7B2BBD2633 /* UIBezierPath+YSPath.m in Sources */ = {isa = PBXBuildFile; fileRef = D9249B83553213C18671DC6A39F475F8 /* UIBezierPath+YSPath.m */; };
 		804361D689906E80D384297FA51F0DCF /* Pods-YSPathViewTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A8DAFCE2FF213D6FE5061EB8089B984 /* Pods-YSPathViewTests-dummy.m */; };
 		8D8A896208D79093EFD5B4384F3E27EF /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
+		9B7F99A8069EA9B70BC0B1EE9019691D /* UIView+YSPath.h in Headers */ = {isa = PBXBuildFile; fileRef = 8580762EE0EB60EC1275B3F290DFA558 /* UIView+YSPath.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A7FBADDFCDCA4CC5544CB36DDF7BE762 /* Pods-YSPathView-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = E69CCB3610436BA51242E79E7A6D9F9A /* Pods-YSPathView-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		AD521E11DAE2EBAD6C5EC4ED621B89E6 /* UIBezierPath+YSPath.h in Headers */ = {isa = PBXBuildFile; fileRef = B65765E35928555A7D0DC17D2B949DF1 /* UIBezierPath+YSPath.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		BBC54C09319B565088547414D4CF8DBB /* YSSpiroGraphPath.h in Headers */ = {isa = PBXBuildFile; fileRef = 2370D500F41B2059EB0F24E5B80C92F2 /* YSSpiroGraphPath.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		BDCFF5DAEB30BD75F8453BCBA6519C1E /* YSSpiroGraphPath.m in Sources */ = {isa = PBXBuildFile; fileRef = 104DEE126629A58CADDAFD674FEA8951 /* YSSpiroGraphPath.m */; };
+		C97462ACECC8037CFEDBC46955412DF8 /* UIView+YSPath.m in Sources */ = {isa = PBXBuildFile; fileRef = AC664AF0D2B3BB5411EAB09D6A6E946B /* UIView+YSPath.m */; };
 		DCC349696459BCDF8F60AB9F2B886BC0 /* Pods-YSPathView-YSPathViewUITests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 6456306CE1A162994C323FD97E3FECCA /* Pods-YSPathView-YSPathViewUITests-dummy.m */; };
-		DD28C4C396AE44713A2044EDBC85A265 /* YSPath-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = CC53647D43F575C7A9F33A3CC383754E /* YSPath-dummy.m */; };
-		DE32939C0EE51B9906C45337F8D10FC1 /* YSSpiroGraphPath.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3D6480ED0A4A2B2BE6D763E94DBC5D /* YSSpiroGraphPath.m */; };
 		FD08464B930B829EE3168479D354713D /* Pods-YSPathView-YSPathViewUITests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 2D5316B8CD30F153B68D5A24413D949F /* Pods-YSPathView-YSPathViewUITests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
@@ -53,50 +53,47 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0B940DD6BB529BAB940CE65218B61C58 /* YSPath.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = YSPath.h; path = YSPath/YSPath.h; sourceTree = "<group>"; };
-		146E886CE1D726B7C1C812750F4C5E7E /* UIView+YSPath.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIView+YSPath.h"; sourceTree = "<group>"; };
+		104DEE126629A58CADDAFD674FEA8951 /* YSSpiroGraphPath.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = YSSpiroGraphPath.m; path = YSPath/YSPathView/Spirograph/YSSpiroGraphPath.m; sourceTree = "<group>"; };
 		1579415D7ADAEA7062FC591BD7EA1008 /* Pods-YSPathView.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-YSPathView.modulemap"; sourceTree = "<group>"; };
 		19BD6A7AB7F984D742C63A6E37A56B5D /* Pods-YSPathView-YSPathViewUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-YSPathView-YSPathViewUITests.release.xcconfig"; sourceTree = "<group>"; };
 		1D19269BBB4920324BE13C20552C9910 /* Pods-YSPathView.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-YSPathView.debug.xcconfig"; sourceTree = "<group>"; };
-		1F15F30883D25B73CF5E1428C4ABFE35 /* UIView+YSPath.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIView+YSPath.m"; sourceTree = "<group>"; };
-		203EF966941843E6E4B9367103A0AFA8 /* YSSpiroGraphPath.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = YSSpiroGraphPath.h; sourceTree = "<group>"; };
-		267DA5166C2453CB93BDFFF38B7AEED6 /* YSPath.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = YSPath.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		20D3981B3D22D6C81C8CCB9FC2122DD0 /* YSPath.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = YSPath.h; path = YSPath/YSPath.h; sourceTree = "<group>"; };
+		2370D500F41B2059EB0F24E5B80C92F2 /* YSSpiroGraphPath.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = YSSpiroGraphPath.h; path = YSPath/YSPathView/Spirograph/YSSpiroGraphPath.h; sourceTree = "<group>"; };
 		280A2B33D685F8E67B21DEA644D35479 /* Pods-YSPathViewTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-YSPathViewTests.release.xcconfig"; sourceTree = "<group>"; };
-		29BE852A0F24BAB18FA87BCE4ED4BBEB /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		2BE410C394A06CE21319288FA8238F33 /* Pods-YSPathView-YSPathViewUITests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-YSPathView-YSPathViewUITests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		2D5316B8CD30F153B68D5A24413D949F /* Pods-YSPathView-YSPathViewUITests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-YSPathView-YSPathViewUITests-umbrella.h"; sourceTree = "<group>"; };
 		2FC2B55D6F400E373E7E21C5D12514BA /* Pods_YSPathViewTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_YSPathViewTests.framework; path = "Pods-YSPathViewTests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		304D8F4E124190F1F24074B09C21A0E1 /* YSPath.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = YSPath.release.xcconfig; sourceTree = "<group>"; };
 		3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		343CC0C7B13EE05557BC0D699FF91DD7 /* YSPath.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = YSPath.debug.xcconfig; sourceTree = "<group>"; };
 		35B900457E6DC98D6E0A666764E5496E /* Pods-YSPathViewTests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-YSPathViewTests-Info.plist"; sourceTree = "<group>"; };
 		372F0919244987E07F291CC620A6637B /* Pods-YSPathView-YSPathViewUITests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-YSPathView-YSPathViewUITests.modulemap"; sourceTree = "<group>"; };
 		3A8DAFCE2FF213D6FE5061EB8089B984 /* Pods-YSPathViewTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-YSPathViewTests-dummy.m"; sourceTree = "<group>"; };
-		3A9C176932EF5918E47AAD4833DC6A70 /* YSPath.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = YSPath.debug.xcconfig; sourceTree = "<group>"; };
+		432C03C11A7B560B2706A8D9AF441A40 /* YSPath-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "YSPath-dummy.m"; sourceTree = "<group>"; };
 		470ADDCB5253A38E5CB61FA7DCF00467 /* YSPath.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = YSPath.framework; path = YSPath.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		4D3D6480ED0A4A2B2BE6D763E94DBC5D /* YSSpiroGraphPath.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = YSSpiroGraphPath.m; sourceTree = "<group>"; };
+		4F045AE731C3AC6BFC6323C9ED73A873 /* YSPath-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "YSPath-Info.plist"; sourceTree = "<group>"; };
 		543EB331AC64E6346993BA75EC8ECF57 /* Pods-YSPathView.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-YSPathView.release.xcconfig"; sourceTree = "<group>"; };
-		5560CD7F143F9617E4CD75C30D2DA44F /* UIBezierPath+YSPath.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIBezierPath+YSPath.h"; sourceTree = "<group>"; };
-		58584B660CF1D546E620DFD73D2E64DB /* YSPath.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = YSPath.release.xcconfig; sourceTree = "<group>"; };
+		580511A5022C0F9ADE1C2EF94DCB81D0 /* YSPath-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "YSPath-prefix.pch"; sourceTree = "<group>"; };
 		5DB718EBA3CE1823AAB3C49A32DF4267 /* Pods-YSPathView-YSPathViewUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-YSPathView-YSPathViewUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		5F34C02DAFBE4357756C231C771257AB /* Pods-YSPathView-YSPathViewUITests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-YSPathView-YSPathViewUITests-frameworks.sh"; sourceTree = "<group>"; };
-		5F4C1DF3A4A9754C5FE8907034085CA0 /* YSPath-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "YSPath-prefix.pch"; sourceTree = "<group>"; };
 		6456306CE1A162994C323FD97E3FECCA /* Pods-YSPathView-YSPathViewUITests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-YSPathView-YSPathViewUITests-dummy.m"; sourceTree = "<group>"; };
 		655137C1D45C5F2E722B57C47D4570CE /* Pods-YSPathView-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-YSPathView-dummy.m"; sourceTree = "<group>"; };
 		6C5F0DC151008B6A58F24F3EAB395C4B /* Pods-YSPathView-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-YSPathView-acknowledgements.plist"; sourceTree = "<group>"; };
 		718DD99CA67DBD1A35C02968E094561D /* Pods-YSPathView-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-YSPathView-frameworks.sh"; sourceTree = "<group>"; };
 		7A284970920C59762587ECAA4069DB91 /* Pods-YSPathViewTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-YSPathViewTests.modulemap"; sourceTree = "<group>"; };
+		8580762EE0EB60EC1275B3F290DFA558 /* UIView+YSPath.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIView+YSPath.h"; path = "YSPath/YSPathView/UIView+YSPath.h"; sourceTree = "<group>"; };
+		85C8EA54FA3E82FEEDA2054120F3F547 /* YSPath.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = YSPath.modulemap; sourceTree = "<group>"; };
 		86C2BC3B0C24899E04DCE020AF88406E /* Pods-YSPathViewTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-YSPathViewTests-acknowledgements.plist"; sourceTree = "<group>"; };
 		96D0C75A7C0D6172CAB8DFC2B43972AC /* Pods-YSPathViewTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-YSPathViewTests.debug.xcconfig"; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9DFD45FCA3F94F6678C9B09D7510A11A /* Pods-YSPathViewTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-YSPathViewTests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		A8E5602B9B60D15FB369F5DFFA8790CB /* Pods-YSPathView-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-YSPathView-Info.plist"; sourceTree = "<group>"; };
-		BE2950388D36B7357F6A884E02551DCD /* YSPath.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = YSPath.modulemap; sourceTree = "<group>"; };
-		C0B94F79B24F8956244981D21ECB14E9 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
-		CC53647D43F575C7A9F33A3CC383754E /* YSPath-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "YSPath-dummy.m"; sourceTree = "<group>"; };
-		D0CE26FF9276D78BBD7765297BF6726D /* UIBezierPath+YSPath.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIBezierPath+YSPath.m"; sourceTree = "<group>"; };
-		D39A9AF6C2F9D33C0AAA4A0B7B5525C5 /* YSPath-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "YSPath-umbrella.h"; sourceTree = "<group>"; };
+		AC664AF0D2B3BB5411EAB09D6A6E946B /* UIView+YSPath.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIView+YSPath.m"; path = "YSPath/YSPathView/UIView+YSPath.m"; sourceTree = "<group>"; };
+		B65765E35928555A7D0DC17D2B949DF1 /* UIBezierPath+YSPath.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIBezierPath+YSPath.h"; path = "YSPath/YSPathView/UIBezierPath+YSPath.h"; sourceTree = "<group>"; };
 		D3B0E6BA2822EA8DAD0BF9C6D2BA0487 /* Pods_YSPathView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_YSPathView.framework; path = "Pods-YSPathView.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D9249B83553213C18671DC6A39F475F8 /* UIBezierPath+YSPath.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIBezierPath+YSPath.m"; path = "YSPath/YSPathView/UIBezierPath+YSPath.m"; sourceTree = "<group>"; };
 		DA95335FA6744F7229E4FF56CB144D37 /* Pods-YSPathView-YSPathViewUITests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-YSPathView-YSPathViewUITests-Info.plist"; sourceTree = "<group>"; };
-		DFAAED286953928A09850DA76ACABAF6 /* YSPath-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "YSPath-Info.plist"; sourceTree = "<group>"; };
+		DF89B15C72B27F578528CEE587FD81DF /* YSPath-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "YSPath-umbrella.h"; sourceTree = "<group>"; };
 		E61787500E3FF9BDAF5EEE93C31E5A04 /* Pods-YSPathViewTests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-YSPathViewTests-umbrella.h"; sourceTree = "<group>"; };
 		E69CCB3610436BA51242E79E7A6D9F9A /* Pods-YSPathView-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-YSPathView-umbrella.h"; sourceTree = "<group>"; };
 		E8E37D8C30C8065F5207DB6F5D7FAB82 /* Pods-YSPathView-YSPathViewUITests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-YSPathView-YSPathViewUITests-acknowledgements.plist"; sourceTree = "<group>"; };
@@ -140,21 +137,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		0989E29FF110C7CF5BB72BE0837EF5E5 /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				BE2950388D36B7357F6A884E02551DCD /* YSPath.modulemap */,
-				CC53647D43F575C7A9F33A3CC383754E /* YSPath-dummy.m */,
-				DFAAED286953928A09850DA76ACABAF6 /* YSPath-Info.plist */,
-				5F4C1DF3A4A9754C5FE8907034085CA0 /* YSPath-prefix.pch */,
-				D39A9AF6C2F9D33C0AAA4A0B7B5525C5 /* YSPath-umbrella.h */,
-				3A9C176932EF5918E47AAD4833DC6A70 /* YSPath.debug.xcconfig */,
-				58584B660CF1D546E620DFD73D2E64DB /* YSPath.release.xcconfig */,
-			);
-			name = "Support Files";
-			path = "Demo/Pods/Target Support Files/YSPath";
-			sourceTree = "<group>";
-		};
 		1D783EFDFF69BDD015BF551CAFE066B0 /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -163,26 +145,6 @@
 				58923FBB22A5FC927C456E08C839401B /* Pods-YSPathViewTests */,
 			);
 			name = "Targets Support Files";
-			sourceTree = "<group>";
-		};
-		22FBC716CC3986CF3ACFCA9550CA7B6E /* Spirograph */ = {
-			isa = PBXGroup;
-			children = (
-				203EF966941843E6E4B9367103A0AFA8 /* YSSpiroGraphPath.h */,
-				4D3D6480ED0A4A2B2BE6D763E94DBC5D /* YSSpiroGraphPath.m */,
-			);
-			name = Spirograph;
-			path = Spirograph;
-			sourceTree = "<group>";
-		};
-		31C3F397A08E658E27F74F10D01A4F23 /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				C0B94F79B24F8956244981D21ECB14E9 /* LICENSE */,
-				29BE852A0F24BAB18FA87BCE4ED4BBEB /* README.md */,
-				267DA5166C2453CB93BDFFF38B7AEED6 /* YSPath.podspec */,
-			);
-			name = Pod;
 			sourceTree = "<group>";
 		};
 		3E8EF5228D86081910D00E997B574950 /* Pods-YSPathView */ = {
@@ -218,6 +180,22 @@
 			path = "Target Support Files/Pods-YSPathViewTests";
 			sourceTree = "<group>";
 		};
+		5CA01BF0DCE1C04D05373A5BB63C68BC /* YSPath */ = {
+			isa = PBXGroup;
+			children = (
+				B65765E35928555A7D0DC17D2B949DF1 /* UIBezierPath+YSPath.h */,
+				D9249B83553213C18671DC6A39F475F8 /* UIBezierPath+YSPath.m */,
+				8580762EE0EB60EC1275B3F290DFA558 /* UIView+YSPath.h */,
+				AC664AF0D2B3BB5411EAB09D6A6E946B /* UIView+YSPath.m */,
+				20D3981B3D22D6C81C8CCB9FC2122DD0 /* YSPath.h */,
+				2370D500F41B2059EB0F24E5B80C92F2 /* YSSpiroGraphPath.h */,
+				104DEE126629A58CADDAFD674FEA8951 /* YSSpiroGraphPath.m */,
+				CFEC948E226AC7604DC7B170196E9C23 /* Support Files */,
+			);
+			name = YSPath;
+			path = YSPath;
+			sourceTree = "<group>";
+		};
 		8D9161B253E3E92BEE0581DC4A9C40BD /* Products */ = {
 			isa = PBXGroup;
 			children = (
@@ -227,39 +205,6 @@
 				470ADDCB5253A38E5CB61FA7DCF00467 /* YSPath.framework */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		A44F216C6A916E9872DABF8041B37C6A /* YSPath */ = {
-			isa = PBXGroup;
-			children = (
-				0B940DD6BB529BAB940CE65218B61C58 /* YSPath.h */,
-				31C3F397A08E658E27F74F10D01A4F23 /* Pod */,
-				0989E29FF110C7CF5BB72BE0837EF5E5 /* Support Files */,
-				B15BB8FEB4C6417E0BF0D6BEF20C5DA6 /* YSPathView */,
-			);
-			name = YSPath;
-			path = ../..;
-			sourceTree = "<group>";
-		};
-		B15BB8FEB4C6417E0BF0D6BEF20C5DA6 /* YSPathView */ = {
-			isa = PBXGroup;
-			children = (
-				5560CD7F143F9617E4CD75C30D2DA44F /* UIBezierPath+YSPath.h */,
-				D0CE26FF9276D78BBD7765297BF6726D /* UIBezierPath+YSPath.m */,
-				146E886CE1D726B7C1C812750F4C5E7E /* UIView+YSPath.h */,
-				1F15F30883D25B73CF5E1428C4ABFE35 /* UIView+YSPath.m */,
-				22FBC716CC3986CF3ACFCA9550CA7B6E /* Spirograph */,
-			);
-			name = YSPathView;
-			path = YSPath/YSPathView;
-			sourceTree = "<group>";
-		};
-		B294BE1A99A5F242BD24B722229CC5F5 /* Development Pods */ = {
-			isa = PBXGroup;
-			children = (
-				A44F216C6A916E9872DABF8041B37C6A /* YSPath */,
-			);
-			name = "Development Pods";
 			sourceTree = "<group>";
 		};
 		B3620731230D9C0BCF7422ECBD9070BD /* Pods-YSPathView-YSPathViewUITests */ = {
@@ -287,15 +232,38 @@
 			name = iOS;
 			sourceTree = "<group>";
 		};
+		CC9351A86D222EF2E752641A1B58C845 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				5CA01BF0DCE1C04D05373A5BB63C68BC /* YSPath */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 		CF1408CF629C7361332E53B88F7BD30C = {
 			isa = PBXGroup;
 			children = (
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
-				B294BE1A99A5F242BD24B722229CC5F5 /* Development Pods */,
 				D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */,
+				CC9351A86D222EF2E752641A1B58C845 /* Pods */,
 				8D9161B253E3E92BEE0581DC4A9C40BD /* Products */,
 				1D783EFDFF69BDD015BF551CAFE066B0 /* Targets Support Files */,
 			);
+			sourceTree = "<group>";
+		};
+		CFEC948E226AC7604DC7B170196E9C23 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				85C8EA54FA3E82FEEDA2054120F3F547 /* YSPath.modulemap */,
+				432C03C11A7B560B2706A8D9AF441A40 /* YSPath-dummy.m */,
+				4F045AE731C3AC6BFC6323C9ED73A873 /* YSPath-Info.plist */,
+				580511A5022C0F9ADE1C2EF94DCB81D0 /* YSPath-prefix.pch */,
+				DF89B15C72B27F578528CEE587FD81DF /* YSPath-umbrella.h */,
+				343CC0C7B13EE05557BC0D699FF91DD7 /* YSPath.debug.xcconfig */,
+				304D8F4E124190F1F24074B09C21A0E1 /* YSPath.release.xcconfig */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/YSPath";
 			sourceTree = "<group>";
 		};
 		D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */ = {
@@ -317,18 +285,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5B2091CF6EB8E3437E5E532AC050781A /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				4661F5E4E0BE84DDA89784932FF2D35D /* UIBezierPath+YSPath.h in Headers */,
-				18BF95A8CD79E270FD7486CEFADCADA0 /* UIView+YSPath.h in Headers */,
-				6424302D8A2FA228E4F8CADBE79DDA9E /* YSPath-umbrella.h in Headers */,
-				0CF843F1D9F4D1EFF869E5ED79F1D23D /* YSPath.h in Headers */,
-				6EAC527A81D2D1407D81689B7A103C96 /* YSSpiroGraphPath.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		899CA3FD437C9999C30315EB95F2C203 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
@@ -342,6 +298,18 @@
 			buildActionMask = 2147483647;
 			files = (
 				A7FBADDFCDCA4CC5544CB36DDF7BE762 /* Pods-YSPathView-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FB39D90049C705CC4919F1C3F2C35382 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AD521E11DAE2EBAD6C5EC4ED621B89E6 /* UIBezierPath+YSPath.h in Headers */,
+				9B7F99A8069EA9B70BC0B1EE9019691D /* UIView+YSPath.h in Headers */,
+				042CCBD4656B0E3C14266D6464EF97FF /* YSPath-umbrella.h in Headers */,
+				0ECE97A111DF50E0781954037D533840 /* YSPath.h in Headers */,
+				BBC54C09319B565088547414D4CF8DBB /* YSSpiroGraphPath.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -390,8 +358,8 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = ED3C803DAC0161F8B5BA010DCDE80DDF /* Build configuration list for PBXNativeTarget "YSPath" */;
 			buildPhases = (
-				5B2091CF6EB8E3437E5E532AC050781A /* Headers */,
-				B8ACA9C18E572AEE12BC74758D6BE3AF /* Sources */,
+				FB39D90049C705CC4919F1C3F2C35382 /* Headers */,
+				4C5EAD191AAEB6A3B6C74EF8E107DEC2 /* Sources */,
 				11D7894A8AD099B997B3692A3F512B24 /* Frameworks */,
 				96ED803F979E1AE45CFA3AE399893505 /* Resources */,
 			);
@@ -493,22 +461,22 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		4C5EAD191AAEB6A3B6C74EF8E107DEC2 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7ECE8A4F8B9BC4C6CD1ECD7B2BBD2633 /* UIBezierPath+YSPath.m in Sources */,
+				C97462ACECC8037CFEDBC46955412DF8 /* UIView+YSPath.m in Sources */,
+				3A1A22389EA58116756CF6AE1C8EE8D7 /* YSPath-dummy.m in Sources */,
+				BDCFF5DAEB30BD75F8453BCBA6519C1E /* YSSpiroGraphPath.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		9175FE816419BB5048A855901D8BBE5B /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				703B2225DC8D6F31087EF3856B11DCDE /* Pods-YSPathView-dummy.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		B8ACA9C18E572AEE12BC74758D6BE3AF /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				58D3FC9C5C0BE8F3118614BB93BC2DFB /* UIBezierPath+YSPath.m in Sources */,
-				75F3E00C5D15A9561B9E53AB6A5F03AD /* UIView+YSPath.m in Sources */,
-				DD28C4C396AE44713A2044EDBC85A265 /* YSPath-dummy.m in Sources */,
-				DE32939C0EE51B9906C45337F8D10FC1 /* YSSpiroGraphPath.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -546,7 +514,7 @@
 /* Begin XCBuildConfiguration section */
 		0389B742EA75EBEEAD7D939029999639 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 3A9C176932EF5918E47AAD4833DC6A70 /* YSPath.debug.xcconfig */;
+			baseConfigurationReference = 343CC0C7B13EE05557BC0D699FF91DD7 /* YSPath.debug.xcconfig */;
 			buildSettings = {
 				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				CODE_SIGN_IDENTITY = "";
@@ -577,7 +545,7 @@
 		};
 		1693FA951FFB5BB54137DD8E540E4552 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 58584B660CF1D546E620DFD73D2E64DB /* YSPath.release.xcconfig */;
+			baseConfigurationReference = 304D8F4E124190F1F24074B09C21A0E1 /* YSPath.release.xcconfig */;
 			buildSettings = {
 				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				CODE_SIGN_IDENTITY = "";
