@@ -1,0 +1,16 @@
+PODS:
+  - YSPath (0.1.0)
+
+DEPENDENCIES:
+  - YSPath (from `../`)
+
+EXTERNAL SOURCES:
+  YSPath:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YSPath: bbca2d48a988554e7d52db63b35fe5d8c975a331
+
+PODFILE CHECKSUM: 6f5a98e42fabd140c11439de28e5bd973003eab5
+
+COCOAPODS: 1.9.1
